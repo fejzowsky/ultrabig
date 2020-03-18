@@ -142,13 +142,13 @@ nav
 	margin: auto;
 }
 
-footer a
+#foot > a
 {
 	text-decoration: none;
 	color: black;
 }
 
-footer a:hover
+#foot > a:hover
 {
 	color: red;
 }
